@@ -1,0 +1,65 @@
+* {
+    margin: 0 10px;
+    padding: 0px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+/* LIEN */
+a:-webkit-any-link {  
+    color: white;
+    cursor: pointer;
+    text-decoration: underline white;
+}
+
+/* NAV */
+.navbar {
+    background-color: rgb(250, 250, 250);
+    margin: 20px 0px;
+
+}
+
+ul {
+    margin-left: 50px;
+}
+
+ li {
+    display: inline;
+    background-color: rgb(115, 50, 175);
+    padding: 10px;
+    margin-left: 0px;
+}
+
+/* MAIN */
+main {
+    margin-top: 30px;
+    background-color: rgb(250, 250, 250);
+    box-shadow: 10px 10px  rgb(122, 84, 129);
+}
+
+header {
+    display: flex;
+    padding-top: 30px;
+    padding-left: 15px;
+    
+}
+
+
+.conteneur {
+    width: 60%;
+}
+
+section {
+    padding-top: 30px;
+}
+
+h1, .paragrapge-section, .img-section {
+    padding: 15px 0px;
+}
+
+footer {
+    padding-top: 20px;
+    text-align: center;
+}
