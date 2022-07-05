@@ -12,6 +12,7 @@ a:-webkit-any-link {
     color: white;
     cursor: pointer;
     text-decoration: underline white;
+    margin: 0 -10px;
 }
 
 /* NAV */
@@ -27,9 +28,8 @@ ul {
 
  li {
     display: inline;
-    background-color: rgb(115, 50, 175);
+    background-color: rgb(114, 47, 177);
     padding: 10px;
-    margin-left: 0px;
 }
 
 /* MAIN */
